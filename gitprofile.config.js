@@ -22,6 +22,7 @@ const config = {
     website: 'https://hiluex.github.io/Hiluex/',
     phone: '',
     email: 'hiluex@gmail.com',
+    discord: 'https://discord.gg/qJEBZ7Gmw3',
   },
   skills: [
     'Python',
