@@ -19,7 +19,7 @@ const config = {
     behance: '',
     medium: '',
     dev: '',
-    website: 'https://arifszn.github.io',
+    website: 'https://hiluex.github.io/Hiluex/',
     phone: '',
     email: 'hiluex@gmail.com',
   },
