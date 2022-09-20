@@ -34,16 +34,10 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Oncode',
-      position: 'Manager',
+      company: 'Oncode Development',
+      position: 'Manager, Android Developer, API Manager',
       from: 'August 2022',
       to: 'Present',
-    },
-    {
-      company: 'My Offer 360 Degree',
-      position: 'Web Application Developer',
-      from: 'July 2019',
-      to: 'August 2021',
     },
   ],
   education: [
