@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ahmad-elabdullah-1018b9250',
+    linkedin: '',
     twitter: 'Hiluex',
     facebook: '',
     instagram: 'hilewx',
