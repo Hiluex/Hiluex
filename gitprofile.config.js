@@ -2,12 +2,12 @@
 
 const config = {
   github: {
-    username: 'Hiluex', // Your GitHub org/user name. (Required)
+    username: 'O0dev', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: ["Hiluex"], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ["O0dev"], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -19,7 +19,7 @@ const config = {
     behance: '',
     medium: '',
     dev: '',
-    website: 'https://o0dev.github.io/Hiluex/',
+    website: 'https://o0dev.github.io/O0dev/',
     phone: '',
     email: 'oncodedevs@gmail.com',
     discord: 'https://discord.gg/qJEBZ7Gmw3',
